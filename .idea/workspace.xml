@@ -3,14 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="28e81102-5946-4c9c-b122-871f3c624843" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/KIAB.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/KIAB.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/KIAB.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/KIAM.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/KIAM.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/KIAM.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/fonts/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/App/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/App/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/App/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/header.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/main.pug" beforeDir="false" afterPath="$PROJECT_DIR$/modules/main.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,9 @@
       <workItem from="1572004937838" duration="1578000" />
       <workItem from="1572008444916" duration="669000" />
       <workItem from="1572086451489" duration="179000" />
-      <workItem from="1572086636371" duration="1325000" />
+      <workItem from="1572086636371" duration="2428000" />
+      <workItem from="1572198734874" duration="1938000" />
+      <workItem from="1572201011419" duration="554000" />
     </task>
     <servers />
   </component>

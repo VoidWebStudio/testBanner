@@ -3,16 +3,28 @@
     to   { opacity: 1; }
 }
 .main-area {
-    margin-top: 8px;
     font-family: 'Archivo Black', sans-serif;
-    line-height: 20px;
+    font-size: 15px;
     color:#414EA8;
+}
+.container-middle{
+  width: 288px;
+  height:60%;
+  display:flex;
+  flex-direction: column;
+  border: 1px solid black;
+  box-shadow: -1px -1px 18px 0px rgba(0,0,0,0.75);
+  padding: 5px;
+}
+.container-main{
+  width: 300px;
+  height: 250px;
 }
 .menu-list {
    margin-top: 5px;
    color: #414EA8;
    font-family: 'Russo One', sans-serif;
-   font-weight: lighter;
+   font-size: 13px;
 }
 a{
     text-decoration: none;
